@@ -61,6 +61,8 @@ Os conteúdos devem ser verificados nas fontes originais e interpretados com sen
 
 Demonstrar, na prática, como o NotebookLM pode ser utilizado para organizar conhecimentos, consultar fontes, verificar informações e produzir materiais educativos sobre um tema específico, explorando aplicações da inteligência artificial generativa.
 
+Link do Projeto: https://notebook.google.com/notebook/cc872141-e99b-4a02-8da7-c6cd5f118eba/preview
+
 ---
 
 **Status:** Projeto de estudo em desenvolvimento — Desafio DIO Innovation.
